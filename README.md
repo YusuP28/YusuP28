@@ -90,35 +90,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:9D4EDD,100:FF0844&height=40&section=header&text=%F0%9F%93%8A%20STATS&fontSize=20&fontColor=FFFFFF" />
 </div>
 
-<div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YusuP28&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF5F6D&icon_color=9D4EDD&text_color=FFFFFF" />
-<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YusuP28&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF5F6D&text_color=FFFFFF" />
-
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=YusuP28&theme=radical&hide_border=true&background=0D1117&stroke=FF5F6D&ring=9D4EDD&fire=FF0844" />
-
-</div>
-
-<br/>
-
-<div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:FF0844,100:9D4EDD&height=40&section=header&text=%F0%9F%8F%86%20TROPHIES&fontSize=20&fontColor=FFFFFF" />
-</div>
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YusuP28&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=8" />
-</div>
-
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:FF0844,100:9D4EDD&height=40&section=header&text=%F0%9F%93%88%20ACTIVITY&fontSize=20&fontColor=FFFFFF" />
-</div>
-
-<div align="center">
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YusuP28&theme=redical&hide_border=true&bg_color=0D1117&color=FF5F6D&line=9D4EDD&point=FFFFFF&area=true" />
-</div>
-
-<br/>
 
 <div align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:9D4EDD,100:FF0844&height=40&section=header&text=%F0%9F%A4%9D%20CONNECT&fontSize=20&fontColor=FFFFFF" />
