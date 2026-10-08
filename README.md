@@ -111,30 +111,6 @@
 
 <br/>
 
-<div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:9D4EDD,100:FF0844&height=40&section=header&text=%F0%9F%9A%80%20PROJECTS&fontSize=20&fontColor=FFFFFF" />
-</div>
-
-<div align="center">
-
-<a href="https://github.com/YusuP28/note_app">
-<img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=YusuP28&repo=note_app&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF5F6D&icon_color=9D4EDD" />
-</a>
-<a href="https://github.com/YusuP28/take_grid">
-<img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=YusuP28&repo=take_grid&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF5F6D&icon_color=9D4EDD" />
-</a>
-
-<br/>
-
-<a href="https://github.com/YusuP28/pos_v2">
-<img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=YusuP28&repo=pos_v2&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF5F6D&icon_color=9D4EDD" />
-</a>
-
-</div>
-
-<br/>
-
-<div align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:FF0844,100:9D4EDD&height=40&section=header&text=%F0%9F%93%88%20ACTIVITY&fontSize=20&fontColor=FFFFFF" />
 </div>
 
