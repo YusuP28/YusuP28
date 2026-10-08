@@ -41,6 +41,22 @@
 
 <br/>
 
+
+> ### 🤖 My Story
+> 
+> **I'm not a coding expert.** I'm someone who **leverages AI** to build real, working apps.
+> 
+> I don't memorize syntax. I don't have a CS degree. But I know how to:
+> - 🎯 **Ask the right questions** to AI
+> - 🔍 **Debug by trial and error** (lots of errors!)
+> - 🚀 **Ship real products** that work
+> - 📚 **Learn from every mistake**
+> 
+> Every app here was built with **AI assistance** — from a phone, using Termux.
+> This is the future of software: **anyone can build**, if they're willing to learn.
+> 
+> *"I don't write code. I direct AI to write code. Then I fix what breaks."*
+
 <div align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:FF0844,100:9D4EDD&height=40&section=header&text=%F0%9F%9B%A0%EF%B8%8F%20TECH%20STACK&fontSize=20&fontColor=FFFFFF" />
 </div>
