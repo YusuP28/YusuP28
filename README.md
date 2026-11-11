@@ -40,19 +40,6 @@
 
 ---
 
-### 📌 Featured Projects
-
-| Project | Description | Tech |
-| :--- | :--- | :--- |
-| **[note_app](https://github.com/YusuP28/note_app)** | Aplikasi catatan dengan PIN lock, fingerprint, markdown, dan backup Google Drive. | Flutter |
-| **[password_manager](https://github.com/YusuP28/password_manager)** | Manajer password offline dengan enkripsi AES-256 dan biometrik. | Flutter |
-| **[nexa](https://github.com/YusuP28/nexa)** | AI coding agent terminal yang ringan dan extensible. | Go |
-| **[take_grid](https://github.com/YusuP28/take_grid)** | Pembuat grid foto dengan collage mode dan custom picker. | Flutter |
-| **[catatanku](https://github.com/YusuP28/catatanku)** | Advanced Notes — local-first Android notes app (Drift+FTS5). | Flutter |
-| **[termux-agent](https://github.com/YusuP28/termux-agent)** | AI CLI Chat di HP dengan UI Terminal Modern. | Flutter |
-
----
-
 ### 📊 GitHub Stats
 
 <div align="center">
